@@ -1,4 +1,3 @@
-# DAYS-Dron-Tabanl-Afet-Y-netim-S-stemi
 // Tek bir main.dart dosyasında birleştirilmiş tüm Flutter kodları.
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
